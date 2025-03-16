@@ -16,7 +16,7 @@ const InputYear = ({
         width: "80%",
         justifyContent: "space-around",
         gap: 24,
-        
+        flexWrap: "wrap",
       }}
     >
       <div
